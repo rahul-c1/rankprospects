@@ -39,12 +39,12 @@ params:
   
   # css
   css:
-    secondary_color: "#F39200" # "#F39200" "#4FC1EA" "#00efb7" (Controls Buttons, Accents)
+    secondary_color: "#4FC1EA" # "#F39200" "#4FC1EA" "#00efb7" (Controls Buttons, Accents)
     mutedgrey_color: "#999" # "#999" # Contols writing 
     greydark_color: "#4a4a4a" # "#4a4a4a" Controls Headers
-    bluegrey_color: "#2c3e50" # "#444F60" (Controls Headers & Footer Background)
-    navbar_color: "#2c3e50" # "#FFF"
-    navbar_text_color: "#FFF" # #999
+    bluegrey_color: "#444F60" # "#444F60" #2c3e50(Controls Headers & Footer Background)
+    navbar_color: "#FFF" # "#FFF" 2c3e50
+    navbar_text_color: "#999" # #FFF
   
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbarStyle:
@@ -71,12 +71,12 @@ params:
   
   applynow:
     title: Claim your free consultation right now.
-    subtitle: Let's have a conversation today 
+    subtitle: Whether you're looking to target new markets, expand your customer base, or simply need to streamline your sales process, RankProspects has you covered.
     googleFormEmbed: "https://docs.google.com/forms/d/e/1FAIpQLSeaux5ms6OjbAzMM1C6tyYBA9nqveniqk_WEdmQLK3uOHSQ9Q/viewform?embedded=true"
   
   contact:
-    title: Contact Us
-    subtitle: What can we help you with?
+    title: Contact us today to learn more and get started
+    subtitle: Don't waste time and resources chasing low-quality leads. Let RankProspects help you focus your efforts on the prospects that matter most. 
     buttontext: Contact Us
   
   section1_attention:
@@ -105,28 +105,28 @@ params:
     - gutwork.svg
  
   section2_transformation:
-    title: "How forecast science works." 
+    title: "How Rank Prospects works." 
     subtitle: "Reduce costs from marketing errors in 4 simple steps"
     # icons are located in static > images > illustrations > icons
     tile_size: is-one-quarter
-    tile_height: "400px"
+    tile_height: "450px"
     tiles:
     - title: "Step 1"
       subtitle: Speak With A Consultant Today
       icon: conversation.svg
-      text: Speak with one of our business consultants about your needs and how our program can help you.
+      text: Speak with one of our business consultants about your needs and how our program can help you.Identification of key characteristics and indicators of high-converting prospects
     - title: "Step 2"
       subtitle: Become Better At Targeting customers
       icon: forecasting.svg
-      text: We work with your team to build a forecast application tailored to improve your business.
+      text: In-depth analysis of your target market and customer demographics, We work with your team to build a ranking application tailored to improve your business.
     - title: "Step 3"
       subtitle: Business Integration
       icon: collaboration.svg
-      text: We integrate your new forecasting application and train your team to use it.
+      text: Customized ranking and prioritization of prospects based on your specific business goals and objectives.We integrate your new ranking application and train your team to use it.
     - title: "Step 4"
       subtitle: Monitor Savings
       icon: monitoring.svg
-      text: We help your team measure savings versus baselines. On average our clients save $2M per year.
+      text:  We help your team measure savings versus baselines. On average our clients save $100K per year.
   
   section3_interest:
     title: Get results faster
@@ -136,11 +136,11 @@ params:
     tile_height: "200px"
     tiles:
     - title: "Get results in 120 days"
-      subtitle: "Go from losing money to saving money without hiring multiple consultants or handling time-consuming project management yourself."
+      subtitle: "Welcome to RankProspects, the premier destination for businesses seeking to identify and prioritize the most promising leads and opportunities."
     - title: "Safe and Secure"
-      subtitle: "You don't need to upload your data to unsecure cloud networks. The forecasting application can be deployed on your own server network."
+      subtitle: "Our team of experienced analysts utilizes advanced analytics and data-driven methodologies to help you identify the prospects that are most likely to convert into customers and drive the greatest ROI for your business."
     - title: "Our ROI Guarantee"
-      subtitle: "On average we save our clients $2M per year. If we can't at least save you what you pay us, we'll give you your money back."
+      subtitle: "On average we save our clients $100K per year. If we can't at least save you what you pay us, we'll give you your money back."
     
     
   section4_desire:
