@@ -25,12 +25,12 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/business-science-logo.png
+    image: logos/rankprospects1.png
     link: /
     brandName: Rank Prospects
     # Default width/height. Uncomment if you need to change
-    width: 40
-    height: 40
+    width: 60
+    height: 60
   
   # Web Fonts Available Here: https://fonts.google.com/
   googleFontImport: 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;600&family=Montserrat:wght@700&family=Roboto+Condensed&display=swap'
@@ -169,9 +169,9 @@ params:
   
   footer:
     # Logo (from /images/logos/___)
-    logo: business-science-logo.png
-    navbarLogoWidth: "100px"
-    navbarLogoHeight: "100px"
+    logo: rankprospects1.png
+    navbarLogoWidth: "80px"
+    navbarLogoHeight: "80px"
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
