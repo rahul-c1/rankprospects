@@ -93,7 +93,7 @@ params:
     buttonlink: "/#section2"
     # Hero image (from static/images/___)
     # Can get these images from flaticon.com
-    image: illustrations/mockups/nostradamus_app.jpg
+    image: illustrations/mockups/leadgeneration.png
     backgroundImage: illustrations/company.jpg
     clientstext: "Some of the clients we've helped:"
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -131,7 +131,7 @@ params:
   section3_interest:
     title: Get results faster
     subtitle: With your custom ranking application
-    image: illustrations/mockups/nostradamus_app.jpg
+    image: illustrations/mockups/leadgeneration.png
     tile_size: is-one-third
     tile_height: "200px"
     tiles:

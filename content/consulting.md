@@ -5,12 +5,10 @@ type: testimonials
 include_cta: true
 ---
 
-
-
 ## Lead Generation Through Data and Analytics
 
 <figure class="image">
-<img class="" src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" style="width:600px;">
+<img class="" src="https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Placeholder image" style="width:600px;">
 </figure>
 
 #### Our data and analytics solutions are designed to help businesses generate more leads and convert them into customers. 
@@ -28,7 +26,7 @@ include_cta: true
 ## Why Work with Us?
 
 <figure class="image">
-<img class="" src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" style="width:600px;">
+<img class="" src="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Placeholder image" style="width:600px;">
 </figure>
 
 + __Proven results:__ We have a track record of success, with satisfied clients who have seen an improvement in their lead generation and conversion rates.
@@ -46,7 +44,7 @@ include_cta: true
 ## Empower your employees
 
 <figure class="image">
-<img class="" src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" style="width:600px;">
+<img class="" src="https://images.pexels.com/photos/2977565/pexels-photo-2977565.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Placeholder image" style="width:600px;">
 </figure>
 
 ### We provide training to your team to help them effectively use the tools effectively in the lead generation process, this will enable them to take informed decision and optimizes your resources.
