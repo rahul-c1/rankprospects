@@ -192,8 +192,8 @@ params:
         links:
         - text: Why choose Rank Prospects?
           link: /consulting
-        - text: Testimonials
-          link: /testimonials
+ #       - text: Testimonials
+ #         link: /testimonials
         - text: Apply to work with us
           link: /applynow
       column2:
