@@ -169,7 +169,7 @@ params:
   
   footer:
     # Logo (from /images/logos/___)
-    logo: rankprospects1.png
+    logo: rankprospects.png
     navbarLogoWidth: "80px"
     navbarLogoHeight: "80px"
     # Social Media Title
