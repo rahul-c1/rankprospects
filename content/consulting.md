@@ -7,9 +7,11 @@ include_cta: true
 
 ## Lead Generation Through Data and Analytics
 
-[//]: <figure class="image">
-[//]: <img class="" src="https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Placeholder image" style="width:600px;">
-[//]: </figure>
+[//]: #<figure class="image">
+
+[//]: #<img class="" src="https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Placeholder image" style="width:600px;">
+
+[//]: #</figure>
 
 #### Our data and analytics solutions are designed to help businesses generate more leads and convert them into customers. 
 
