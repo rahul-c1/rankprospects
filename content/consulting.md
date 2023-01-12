@@ -47,6 +47,6 @@ include_cta: true
 <img class="" src="https://images.pexels.com/photos/2977565/pexels-photo-2977565.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Placeholder image" style="width:600px;">
 </figure>
 
-### We provide training to your team to help them effectively use the tools effectively in the lead generation process, this will enable them to take informed decision and optimizes your resources.
+### We provide free training to your team to help them effectively use the tools.
 
 ***
