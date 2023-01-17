@@ -106,7 +106,7 @@ params:
  
   section2_transformation:
     title: "How Rank Prospects works." 
-    subtitle: "Reduce costs from marketing errors in 4 simple steps"
+    subtitle: "Reduce costs from marketing mistakes in 4 simple steps"
     # icons are located in static > images > illustrations > icons
     tile_size: is-one-quarter
     tile_height: "450px"
@@ -138,27 +138,27 @@ params:
     - title: "Get results in 120 days"
       subtitle: "Welcome to RankProspects, the premier destination for businesses seeking to identify and prioritize the most promising leads and opportunities."
     - title: "Safe and Secure"
-      subtitle: "Our team of experienced analysts utilizes advanced analytics and data-driven methodologies to help you identify the prospects that are most likely to convert into customers and drive the greatest ROI for your business."
+      subtitle: "Our experienced team leverages data-driven methodologies and analytics to help you identify the prospects that are most likely to convert into customers and drive the greatest ROI for your business."
     - title: "Our ROI Guarantee"
       subtitle: "On average we save our clients $100K per year. If we can't at least save you what you pay us, we'll give you your money back."
     
     
   section4_desire:
-    title: Trusted by awesome companies like these that are saving money and improving their demand planning
+    title: Trusted by companies that are saving money and improving their demand planning
     subtitle: Real results from our valued clients.
-    clients:
-    - name: Irma
-      quote: We were able to recover $5.3M by optimizing our supply and demand planning system using Forecasting Science. They delivered a solution in 90 days. This project was a slam dunk.
-      job: Senior VP, Exxon Mobil
-      img: 1.png
-    - name: John
-      quote: We literally can't live without our new demand planning system built by Forecasting Science, LLC. These guys delivered a $3.4M improvement to operations in under 6 months.
-      job: CEO, Tech Company
-      img: 2.png
-    - name: Gary
-      quote: I finally took the plunge and boy did it pay off. We got the first version of our forecasting system in 60 days. Let's just say that the ROI was immediate.
-      job: Executive VP, Marathon Petroleum
-      img: 3.png
+    #clients:
+    #- name: Irma
+    #  quote: We were able to recover $5.3M by optimizing our supply and demand planning system using Forecasting Science. They delivered a solution in 90 days. This project was a slam dunk.
+    #  job: Senior VP, Exxon Mobil
+    #  img: 1.png
+    #- name: John
+    #  quote: We literally can't live without our new demand planning system built by Forecasting Science, LLC. These guys delivered a $3.4M improvement to operations in under 6 months.
+    #  job: CEO, Tech Company
+    #  img: 2.png
+    #- name: Gary
+    #  quote: I finally took the plunge and boy did it pay off. We got the first version of our forecasting system in 60 days. Let's just say that the ROI was immediate.
+    #  job: Executive VP, Marathon Petroleum
+    #  img: 3.png
   
   section5_faq: false
   
