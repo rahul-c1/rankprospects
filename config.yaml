@@ -181,9 +181,9 @@ params:
       icon: linkedin
 #   - link: https://facebook.com/#
 #      icon: facebook
-    - link: https://twitter.com/lucperkins
+    - link: https://twitter.com/analyticscntr
       icon: twitter
-    - link: https://github.com/lucperkins/github-fresh
+    - link: https://github.com/
       icon: github
     bulmalogo: false
     quicklinks:
