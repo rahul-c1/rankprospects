@@ -126,7 +126,7 @@ params:
     - title: "Step 4"
       subtitle: Monitor Savings
       icon: monitoring.svg
-      text:  We help your team measure savings versus baselines. On average our clients save $100K per year.
+      text:  We help your team measure savings versus baselines. On average our clients increase ROI  $100K per year.
   
   section3_interest:
     title: Get results faster
@@ -170,8 +170,8 @@ params:
   footer:
     # Logo (from /images/logos/___)
     logo: RankProspects.jpg
-    navbarLogoWidth: "100px"
-    navbarLogoHeight: "100px"
+    navbarLogoWidth: "90px"
+    navbarLogoHeight: "90px"
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
