@@ -25,7 +25,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/rankprospects2.png
+    image: logos/RankProspects.jpg
     link: /
     brandName: Rank Prospects
     # Default width/height. Uncomment if you need to change
@@ -169,7 +169,7 @@ params:
   
   footer:
     # Logo (from /images/logos/___)
-    logo: rankprospects2.png
+    logo: RankProspects.jpg
     navbarLogoWidth: "80px"
     navbarLogoHeight: "80px"
     # Social Media Title
