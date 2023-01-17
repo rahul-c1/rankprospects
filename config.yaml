@@ -196,11 +196,11 @@ params:
  #         link: /testimonials
         - text: Apply to work with us
           link: /applynow
-      column2:
-        title: "Blog"
-        links:
-        - text: Latest news
-          link: /blog
+     # column2:
+    #    title: "Blog"
+    #    links:
+    #    - text: Latest news
+    #      link: /blog
           
 
           
