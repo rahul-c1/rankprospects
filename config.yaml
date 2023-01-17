@@ -170,8 +170,8 @@ params:
   footer:
     # Logo (from /images/logos/___)
     logo: RankProspects.jpg
-    navbarLogoWidth: "90px"
-    navbarLogoHeight: "90px"
+    navbarLogoWidth: "80px"
+    navbarLogoHeight: "80px"
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
