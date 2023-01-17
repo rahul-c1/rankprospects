@@ -118,7 +118,7 @@ params:
     - title: "Step 2"
       subtitle: Become Better At Targeting customers
       icon: forecasting.svg
-      text: In-depth analysis of your target market and customer demographics, We work with your team to build a ranking application tailored to improve your business.
+      text: In-depth analysis of your target market and customer demographics. We work with your team to build a ranking application tailored to improve your business.
     - title: "Step 3"
       subtitle: Business Integration
       icon: collaboration.svg
