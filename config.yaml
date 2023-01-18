@@ -30,7 +30,7 @@ params:
     brandName: Rank Prospects
     # Default width/height. Uncomment if you need to change
     width: 60
-    height: 60
+    height: 80
   
   # Web Fonts Available Here: https://fonts.google.com/
   googleFontImport: 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;600&family=Montserrat:wght@700&family=Roboto+Condensed&display=swap'
@@ -171,7 +171,7 @@ params:
     # Logo (from /images/logos/___)
     logo: RankProspects.jpg
     navbarLogoWidth: "100px"
-    navbarLogoHeight: "100px"
+    navbarLogoHeight: "80px"
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
