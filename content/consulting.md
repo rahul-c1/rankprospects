@@ -49,6 +49,6 @@ include_cta: true
 <img class="" src="https://images.pexels.com/photos/2977565/pexels-photo-2977565.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Placeholder image" style="width:600px;">
 </figure>
 
-### We will work with your employess to understand the best use of applications by providing free training to your team allowing them effectively use the tools
+### We will work with your employees to explain the best use of applications by providing free training to your team allowing them effectively use the tools
 
 ***
